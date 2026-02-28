@@ -1,0 +1,47 @@
+FILIÈRES DE L'ENSAJ
+École Nationale des Sciences Appliquées d'El Jadida
+
+CYCLE INGÉNIEUR (5 ans - 2 ans CPI + 3 ans spécialisation)
+
+=== FILIÈRES DISPONIBLES ===
+
+1. GÉNIE ÉNERGÉTIQUE ET ÉLECTRIQUE (G2E)
+Domaines: Production d'énergie, systèmes électriques, énergies renouvelables, automatisme industriel
+Débouchés: Secteur énergétique, industries, bureaux d'études, maintenance industrielle
+
+2. GÉNIE INDUSTRIEL (GI)
+Domaines: Gestion de production, logistique, supply chain, qualité industrielle, lean manufacturing
+Débouchés: Industries manufacturières, gestion de production, consulting, logistique
+
+3. INGÉNIERIE DES SYSTÈMES D'INFORMATION ET DE COMMUNICATION (ISIC)
+Domaines: Réseaux et télécommunications, développement logiciel, cybersécurité, intelligence artificielle
+Débouchés: Opérateurs télécom, éditeurs de logiciels, banques, startups tech, administrations
+
+4. GÉNIE INFORMATIQUE ET TECHNOLOGIES ÉMERGENTES (2ITE)
+Domaines: Intelligence artificielle, big data, cloud computing, IoT, blockchain, développement avancé
+Débouchés: Ingénierie logicielle, data science, IA, transformation digitale, R&D
+
+5. CYBERSÉCURITÉ ET CONFIANCE NUMÉRIQUE (CCN)
+Domaines: Sécurité des systèmes d'information, cryptographie, ethical hacking, SOC, gouvernance SI
+Débouchés: Analyste cybersécurité, pentester, consultant sécurité, RSSI, forensic
+
+=== MASTER ===
+
+MASTER EN SCIENCES DES DONNÉES ET INTELLIGENCE ARTIFICIELLE (SDIA)
+Domaines: Machine learning, deep learning, big data, data engineering, NLP, computer vision
+Durée: 2 ans
+Débouchés: Data scientist, ML engineer, chercheur en IA, architecte data
+
+=== CYCLE PRÉPARATOIRE INTÉGRÉ (CPI) ===
+Durée: 2 ans (4 semestres)
+Formation générale en: Mathématiques, Physique, Chimie, Informatique, Langues, Communication
+
+=== CONDITIONS D'ADMISSION ===
+- CPI: Bac scientifique (Maths, PC, SVT)
+- Cycle Ingénieur: Après CPI validé ou concours national (DEUST, Classes prépa)
+- Master SDIA: Licence en informatique, mathématiques appliquées ou équivalent
+
+=== CONTACT ===
+Site web: www.ensaj.ma
+Email: contact@ensaj.ma
+Adresse: Route d'El Jadida, Km 7, El Jadida, Maroc

@@ -1,0 +1,45 @@
+version: '3.8'
+
+services:
+  # Base de données PostgreSQL
+  postgres:
+    image: postgres:15-alpine
+    container_name: ensa-postgres
+    environment:
+      POSTGRES_DB: ensa_chatbot
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: ensa_secure_pass_2024
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+    networks:
+      - ensa-network
+
+  # Open WebUI - Interface graphique
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    container_name: ensa-openwebui
+    ports:
+      - "3000:8080"
+    volumes:
+      - open-webui_data:/app/backend/data
+    environment:
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - WEBUI_NAME=ENSA El Jadida Chatbot
+      - WEBUI_SECRET_KEY=ensa-secret-key-2024
+      - DEFAULT_MODELS=llama3.1:8b
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
+    networks:
+      - ensa-network
+
+networks:
+  ensa-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+  open-webui_data:

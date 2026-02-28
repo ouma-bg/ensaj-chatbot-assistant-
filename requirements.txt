@@ -1,0 +1,41 @@
+# ===========================================
+# ENSA CHATBOT - VERSION FAISS
+# Compatible Windows sans Visual C++ Build Tools
+# ===========================================
+
+# LLM et RAG
+langchain==0.3.15
+langchain-community==0.3.15
+langchain-ollama==0.2.3
+ollama==0.4.4
+
+# Base de données vectorielle (FAISS au lieu de ChromaDB)
+faiss-cpu==1.9.0.post1
+
+# API
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+
+# Base de données
+psycopg2-binary==2.9.10
+sqlalchemy==2.0.36
+
+# Traitement de documents
+pypdf==5.1.0
+python-docx==1.1.2
+openpyxl==3.1.5
+beautifulsoup4==4.12.3
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.10.5
+pydantic-settings==2.7.1
+requests==2.32.3
+
+# Monitoring
+loguru==0.7.3
+
+# Tests
+pytest==8.3.4
+pytest-asyncio==0.24.0

@@ -1,0 +1,293 @@
+SYSTÈME D'ÉVALUATION ET NOTATION - ENSAJ
+
+=== PRINCIPES GÉNÉRAUX D'ÉVALUATION ===
+
+Objectifs du système d'évaluation:
+- Mesurer l'acquisition des compétences
+- Évaluer la progression des élèves ingénieurs
+- Garantir la qualité de la formation
+- Assurer l'équité entre tous les étudiants
+
+Types d'évaluations:
+1. Évaluation continue (Contrôle Continu)
+2. Évaluations intermédiaires
+3. Examens finaux de semestre
+4. Évaluations de projets
+5. Évaluations de stages
+6. Soutenance du Projet de Fin d'Études
+
+=== CONTRÔLE CONTINU (CC) ===
+
+Composition du contrôle continu:
+- Tests écrits (QCM, questions ouvertes)
+- Interrogations orales
+- Travaux pratiques (TP)
+- Comptes-rendus de TP
+- Mini-projets
+- Exposés et présentations
+- Participation active en cours
+
+Fréquence:
+- Minimum 2 évaluations continues par module
+- Répartition régulière sur le semestre
+- Dates annoncées à l'avance par l'enseignant
+
+Pondération:
+- Le CC représente 40% de la note finale du module
+- Certains modules peuvent avoir une pondération différente (précisée au début du semestre)
+
+Règles importantes:
+- Absence à un CC: Note de 0/20 (sauf justification valable)
+- Justification dans les 48h obligatoire
+- Rattrapage de CC possible selon décision de l'enseignant
+
+=== EXAMENS FINAUX ===
+
+Organisation:
+- Un examen final par module à la fin de chaque semestre
+- Durée: 1h30 à 3h selon les modules
+- Planning affiché 2 semaines avant le début des examens
+
+Pondération:
+- L'examen final représente 60% de la note finale
+- Note finale module = (CC × 0.40) + (Examen × 0.60)
+
+Types d'examens:
+- Épreuves écrites
+- QCM (Questions à Choix Multiples)
+- Exercices pratiques
+- Études de cas
+- Questions de cours et de réflexion
+
+Règles d'examen:
+- Présence obligatoire 15 minutes avant le début
+- Carte d'étudiant obligatoire
+- Documents autorisés spécifiés par l'enseignant
+- Téléphones et appareils électroniques interdits
+- Toute fraude sanctionnée immédiatement
+
+Absence à l'examen final:
+- Justification obligatoire dans les 48h
+- Certificat médical ou document officiel requis
+- Session de rattrapage automatique en cas d'absence justifiée
+- Note de 0/20 en cas d'absence non justifiée
+
+=== CALCUL DES NOTES ET MOYENNES ===
+
+Note d'un module:
+Note Module = (Contrôle Continu × 0.40) + (Examen Final × 0.60)
+
+Moyenne du semestre:
+Moyenne Semestre = Σ(Note Module × Coefficient Module) / Σ(Coefficients)
+
+Coefficients des modules:
+- Variables selon les modules (généralement entre 2 et 4)
+- Modules fondamentaux: Coefficient plus élevé
+- Modules complémentaires: Coefficient moindre
+- Coefficients communiqués en début de semestre
+
+Moyenne générale annuelle:
+Moyenne Année = (Moyenne Semestre 1 + Moyenne Semestre 2) / 2
+
+Classement:
+- Classement établi par filière et par promotion
+- Basé sur la moyenne générale annuelle
+- Important pour certaines opportunités (stages, bourses, échanges)
+
+=== VALIDATION DES MODULES ===
+
+Critères de validation:
+- Note du module ≥ 10/20: Module validé
+- Note < 10/20: Module non validé (doit passer au rattrapage)
+
+Note minimale pour compensation:
+- Un module avec note ≥ 7/20 peut être compensé
+- Note < 7/20: Pas de compensation possible, rattrapage obligatoire
+
+Compensation entre modules:
+Conditions:
+- Moyenne du semestre ≥ 10/20
+- Tous les modules du semestre ≥ 7/20
+- La compensation s'applique uniquement au sein du même semestre
+
+Exemple de compensation:
+Module A: 8/20 (coefficient 3)
+Module B: 12/20 (coefficient 3)
+Moyenne = (8×3 + 12×3) / 6 = 10/20 ✓ Les deux modules sont validés par compensation
+
+Cas sans compensation possible:
+Module A: 6/20 (< 7/20) → Rattrapage obligatoire même si moyenne ≥ 10/20
+
+=== SESSION DE RATTRAPAGE ===
+
+Organisation:
+- Une session de rattrapage par semestre
+- Généralement en juin-juillet (pour les deux semestres)
+- Concerne uniquement les modules non validés
+
+Modalités:
+- Examen de rattrapage portant sur tout le programme du module
+- Durée similaire à l'examen initial
+- Format similaire (écrit, pratique, etc.)
+
+Calcul de la note après rattrapage:
+- Note finale = MAX(Note initiale, Note rattrapage)
+- La meilleure des deux notes est conservée
+- Le CC initial est conservé dans certains cas selon le règlement
+
+Conséquences du rattrapage:
+- Réussite: Module validé, passage au semestre/année suivante
+- Échec: Redoublement ou exclusion selon les cas
+
+Nombre de modules au rattrapage:
+- Généralement limité à 3-4 modules par semestre
+- Au-delà: Redoublement automatique possible
+
+=== MENTIONS ET DISTINCTIONS ===
+
+Mentions semestrielles/annuelles:
+- Moyenne ≥ 16/20: Très Bien
+- Moyenne ≥ 14/20: Bien
+- Moyenne ≥ 12/20: Assez Bien
+- Moyenne ≥ 10/20: Passable
+- Moyenne < 10/20: Échec
+
+Mentions sur le diplôme final:
+Calculées sur la moyenne de l'ensemble du cursus (5 années):
+- Moyenne ≥ 16/20: Très Bien (avec félicitations du jury)
+- Moyenne ≥ 14/20: Bien
+- Moyenne ≥ 12/20: Assez Bien
+- Moyenne ≥ 10/20: Passable
+
+Prix et distinctions:
+- Major de promotion: Premier classé de la filière
+- Prix d'excellence: Pour les meilleurs étudiants
+- Mention spéciale du jury: Pour travaux exceptionnels
+
+=== ÉVALUATION DES TRAVAUX PRATIQUES (TP) ===
+
+Critères d'évaluation:
+- Présence et ponctualité (10%)
+- Réalisation pratique des manipulations (40%)
+- Compte-rendu écrit (40%)
+- Respect des consignes de sécurité (10%)
+
+Compte-rendu de TP:
+- Obligatoire pour chaque séance de TP
+- Délai de remise: Généralement 1 semaine
+- Retard pénalisé (réduction de 2 points par jour de retard)
+- Non remise = 0/20 pour le TP concerné
+
+Note globale des TP:
+- Moyenne de tous les TP du semestre
+- Intégrée dans la note du contrôle continu du module
+- Coefficient variable selon le module
+
+=== ÉVALUATION DES PROJETS ===
+
+Projets individuels:
+- Évaluation sur la qualité technique
+- Respect du cahier des charges
+- Documentation et rapport
+- Présentation orale
+
+Projets en groupe:
+- Évaluation collective ET individuelle
+- Contribution de chaque membre évaluée
+- Présentation et démonstration
+- Rapport écrit collectif
+
+Critères d'évaluation des projets:
+- Qualité technique et innovation (40%)
+- Méthodologie et organisation (20%)
+- Rapport écrit (20%)
+- Présentation orale (20%)
+
+=== ÉVALUATION DES STAGES ===
+
+Stage d'initiation (1ère année):
+- Rapport de stage simple (10-15 pages)
+- Présentation de l'entreprise et des activités
+- Note sur 20 intégrée au semestre
+
+Stage technicien/ouvrier:
+- Rapport détaillé (20-30 pages)
+- Soutenance devant un jury
+- Évaluation de l'encadrant entreprise
+- Note sur 20 avec coefficient important
+
+Évaluation:
+- Rapport écrit (50%)
+- Soutenance (30%)
+- Appréciation de l'encadrant entreprise (20%)
+
+=== PROJET DE FIN D'ÉTUDES (PFE) ===
+
+Évaluation en trois parties:
+
+1. Rapport écrit (50%):
+- Qualité rédactionnelle et structure
+- Profondeur technique et scientifique
+- Respect des normes de rédaction
+- Bibliographie et références
+
+2. Soutenance orale (30%):
+- Qualité de la présentation
+- Maîtrise du sujet
+- Réponses aux questions du jury
+- Respect du timing (généralement 20-30 min présentation + 15-20 min questions)
+
+3. Appréciation entreprise (20%):
+- Assiduité et sérieux
+- Qualité du travail réalisé
+- Intégration dans l'équipe
+- Respect des délais
+
+Note minimale PFE:
+- 10/20 requis pour l'obtention du diplôme
+- Échec au PFE = Pas de diplôme (nouvelle soutenance nécessaire)
+
+=== CONSULTATION DES NOTES ET RÉCLAMATIONS ===
+
+Affichage des résultats:
+- Notes affichées sur les panneaux d'affichage
+- Accès en ligne via la plateforme Moodle
+- Relevés de notes remis par le service de scolarité
+
+Délais de réclamation:
+- 48 heures après l'affichage des notes
+- Demande écrite adressée au responsable du module
+- Possibilité de consultation de copie
+
+Procédure de contestation:
+1. Demande écrite motivée au coordinateur de filière
+2. Révision de la copie par un second correcteur
+3. Décision finale du jury pédagogique (non contestable)
+
+Conservation des notes:
+- Notes conservées durant tout le cursus
+- Pas de suppression de notes, même après redoublement
+- Meilleure note retenue en cas de repassage d'un module
+
+=== RÈGLES SPÉCIFIQUES COVID-19 (SI APPLICABLE) ===
+
+En cas de situation sanitaire exceptionnelle:
+- Possibilité d'examens en ligne
+- Adaptation des modalités d'évaluation
+- Communication officielle par l'administration
+- Maintien des exigences de validation
+
+=== CONSEIL PÉDAGOGIQUE ET JURY ===
+
+Composition du jury:
+- Directeur de l'école (président)
+- Coordinateurs de filières
+- Enseignants responsables de modules
+- Représentant de l'administration
+
+Rôle du jury:
+- Validation des résultats semestriels
+- Décisions de passage ou redoublement
+- Attribution des mentions
+- Cas particuliers et dérogations
+- Validation des diplômes

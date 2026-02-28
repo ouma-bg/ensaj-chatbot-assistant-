@@ -1,0 +1,225 @@
+RÈGLEMENT PÉDAGOGIQUE - ENSAJ
+
+=== ORGANISATION DE LA SCOLARITÉ ===
+
+Durée des études:
+- Cycle préparatoire: 2 ans (4 semestres)
+- Cycle ingénieur: 3 ans (6 semestres)
+- Total: 5 ans (10 semestres)
+
+Année académique:
+- Deux semestres par an
+- Semestre d'automne: Septembre à Janvier
+- Semestre de printemps: Février à Juin
+
+=== SYSTÈME D'ÉVALUATION ===
+
+Organisation des évaluations:
+- Contrôles continus (CC) durant le semestre
+- Examens de fin de semestre
+- Projets et exposés
+- Travaux pratiques notés
+- Participation en cours
+
+Répartition des notes:
+- Contrôle continu: 40% de la note finale
+- Examen final: 60% de la note finale
+- Peut varier selon les modules
+
+Notes et mentions:
+- Note minimale de validation: 10/20
+- 16-20: Très bien
+- 14-16: Bien
+- 12-14: Assez bien
+- 10-12: Passable
+- < 10: Échec (module non validé)
+
+=== VALIDATION DES MODULES ===
+
+Principe:
+- Chaque module doit être validé avec une moyenne ≥ 10/20
+- Compensation possible entre modules d'un même semestre
+- Pas de compensation entre semestres
+
+Compensation:
+- La moyenne du semestre doit être ≥ 10/20
+- Permet de valider un module avec note < 10/20 si la moyenne générale le compense
+- Tous les modules du semestre doivent avoir au minimum 7/20
+
+Rattrapage:
+- Organisé pour les modules non validés
+- Une session de rattrapage par semestre
+- Généralement en fin d'année académique (juin-juillet)
+- Seule la meilleure note est retenue (examen initial ou rattrapage)
+
+=== PROGRESSION DANS LE CURSUS ===
+
+Passage au semestre supérieur:
+- Validation de tous les modules du semestre en cours
+- Ou validation par compensation (moyenne ≥ 10/20)
+
+Redoublement:
+- Autorisé une seule fois durant tout le cursus (sauf cas exceptionnels)
+- Possible si échec à la validation du semestre
+- Nécessite l'accord du jury pédagogique
+
+Exclusion définitive:
+- Après deux échecs consécutifs
+- Non-respect répété du règlement intérieur
+- Fraude ou plagiat avéré
+
+=== ASSIDUITÉ ET PRÉSENCE ===
+
+Obligation de présence:
+- Présence obligatoire à tous les cours, TD et TP
+- Signature de la feuille de présence à chaque séance
+- Justification obligatoire des absences
+
+Gestion des absences:
+- Toute absence doit être justifiée dans les 48 heures
+- Certificat médical pour raison de santé
+- Justificatif officiel pour autres raisons (administratif, familial)
+
+Seuil d'absences:
+- Absence injustifiée > 3 séances pour un module: Avertissement
+- Absence injustifiée > 25% des séances: Exclusion du module
+- Note de 0/20 attribuée au module en cas d'exclusion pour absence
+
+Conséquences des absences excessives:
+- Impossibilité de passer l'examen final du module
+- Obligation de repasser le module l'année suivante
+- Risque de redoublement si plusieurs modules sont concernés
+
+Absences justifiées acceptées:
+- Maladie (avec certificat médical)
+- Décès d'un proche (avec acte de décès)
+- Événements familiaux exceptionnels (avec justificatif)
+- Convocation officielle (administrative, judiciaire)
+
+=== STAGES OBLIGATOIRES ===
+
+Cycle préparatoire:
+- Stage d'initiation (1 mois) en fin de 1ère année
+- Stage ouvrier (1 mois) en fin de 2ème année
+- Objectif: Découverte du monde professionnel
+
+Cycle ingénieur:
+- Stage technicien (1 à 2 mois) en fin de 1ère année cycle ingénieur
+- Stage de spécialisation (été) en 2ème année cycle ingénieur
+- Stage de Projet de Fin d'Études (PFE): 4 à 6 mois en dernière année
+
+Validation des stages:
+- Rapport de stage obligatoire
+- Soutenance devant un jury
+- Note attribuée comptant pour la validation du semestre
+- Attestation de stage délivrée par l'entreprise
+
+=== PROJET DE FIN D'ÉTUDES (PFE) ===
+
+Caractéristiques:
+- Durée: 4 à 6 mois (généralement février à juin de la 5ème année)
+- En entreprise ou laboratoire de recherche
+- Sujet validé par l'école et l'entreprise
+- Encadrement: Encadrant entreprise + Encadrant pédagogique ENSAJ
+
+Déroulement:
+- Recherche et validation du sujet (novembre-décembre)
+- Rédaction d'un cahier des charges
+- Travail de développement/recherche (4-6 mois)
+- Rédaction du rapport final
+- Soutenance publique devant un jury
+
+Évaluation:
+- Rapport écrit (50%)
+- Soutenance orale (30%)
+- Évaluation de l'encadrant entreprise (20%)
+- Note minimale requise: 10/20
+
+Importance:
+- Le PFE est obligatoire pour l'obtention du diplôme
+- Échec au PFE = Pas de diplôme d'ingénieur
+
+=== TRAVAUX ET PROJETS ===
+
+Travaux pratiques (TP):
+- Présence obligatoire
+- Compte-rendu à remettre dans les délais
+- Note du TP intégrée dans la note du module
+
+Projets intégrateurs:
+- Projets en groupe durant le semestre
+- Application des connaissances théoriques
+- Présentation et rapport final
+- Évaluation collective et individuelle
+
+=== DISCIPLINE ET COMPORTEMENT ===
+
+Règles de conduite:
+- Respect des enseignants et du personnel
+- Respect des locaux et équipements
+- Interdiction de fumer dans l'enceinte de l'école
+- Tenue correcte exigée
+
+Fraude et plagiat:
+- Tolérance zéro pour la fraude aux examens
+- Sanction immédiate: Note de 0/20 et exclusion de la session
+- Plagiat dans les rapports/projets: Note de 0 et sanctions disciplinaires
+- Récidive: Exclusion définitive possible
+
+Sanctions disciplinaires:
+- Avertissement
+- Blâme
+- Exclusion temporaire (1 semestre à 1 an)
+- Exclusion définitive
+
+=== DIPLÔME D'INGÉNIEUR D'ÉTAT ===
+
+Conditions d'obtention:
+- Validation de tous les modules du cursus (10 semestres)
+- Validation du PFE avec note ≥ 10/20
+- Validation de tous les stages
+- Niveau B2 en anglais (TOEIC, IELTS ou équivalent)
+- Niveau B1 en français (pour les non-francophones)
+
+Titre délivré:
+- Diplôme d'Ingénieur d'État de l'ENSAJ
+- Spécialité mentionnée sur le diplôme (ISIC, G2E, etc.)
+- Diplôme reconnu par l'État marocain et accrédité
+
+Remise des diplômes:
+- Cérémonie de remise des diplômes annuelle
+- Généralement en novembre-décembre
+- Présence recommandée mais non obligatoire
+
+=== DROITS ET DEVOIRS DES ÉLÈVES INGÉNIEURS ===
+
+Droits:
+- Accès aux infrastructures de l'école (bibliothèque, labos, salles info)
+- Participation aux clubs et associations étudiantes
+- Représentation étudiante au conseil de l'école
+- Accès aux services sociaux et médicaux
+- Bourses et aides financières (selon critères)
+
+Devoirs:
+- Respecter le règlement intérieur et pédagogique
+- Assiduité et ponctualité
+- Travail sérieux et régulier
+- Respect de l'environnement et des équipements
+- Participation active à la vie de l'école
+
+=== RESSOURCES ET RÉCLAMATIONS ===
+
+Réclamations académiques:
+- Contestation de note: Possible dans les 48h suivant l'affichage
+- Procédure écrite auprès du responsable de filière
+- Possibilité de révision de copie par un second correcteur
+
+Soutien pédagogique:
+- Tutorat disponible pour les étudiants en difficulté
+- Séances de soutien organisées par les enseignants
+- Consultation des enseignants pendant les heures de permanence
+
+Contact:
+- Direction des études: Pour toute question académique
+- Service de scolarité: Pour les questions administratives
+- Coordinateurs de filière: Pour les questions spécifiques à la spécialité

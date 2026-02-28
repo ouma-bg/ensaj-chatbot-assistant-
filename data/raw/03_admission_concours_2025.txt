@@ -1,0 +1,144 @@
+ADMISSION ET CONCOURS D'ACCÈS À L'ENSAJ - ANNÉE 2025-2026
+
+=== VUE D'ENSEMBLE ===
+L'ENSAJ organise plusieurs types de concours pour l'admission en cycle ingénieur. Les procédures varient selon le niveau d'accès souhaité.
+
+=== CONCOURS D'ACCÈS EN 1ÈRE ANNÉE DU CYCLE PRÉPARATOIRE ===
+
+Voie principale: CONCOURS NATIONAL COMMUN (CNC)
+- Réservé aux élèves des classes préparatoires (CPGE)
+- Concours unifié pour toutes les ENSA du Maroc
+- Inscription via: www.ensa-concours.ma
+- Procédure en ligne obligatoire
+
+Public cible:
+- Élèves de 2ème année classes préparatoires aux grandes écoles (CPGE)
+- Filières MP, PSI, TSI
+
+=== CONCOURS D'ACCÈS EN 1ÈRE ANNÉE DU CYCLE INGÉNIEUR ===
+
+Dates importantes 2025:
+- Période de candidature: 12 juin au 4 juillet 2025 (23h00)
+- Présélection annoncée: 9 juillet 2025
+- Concours écrit: 15 juillet 2025 (à partir de 9h)
+- Résultats définitifs: 17 juillet 2025
+- Inscription liste principale: 28-29 juillet 2025
+- Inscription liste d'attente: 1er août 2025
+
+Conditions d'éligibilité:
+- Être titulaire d'un diplôme BAC+2 ou BAC+3:
+  * Licence
+  * DEUG
+  * DUT
+  * DEUST
+  * DEUP
+  * Ou diplôme équivalent reconnu
+- Avoir validé au moins 4 semestres
+- Note moyenne ≥ 13/20 sur les 4 semestres validés
+
+Filières diplômantes acceptées:
+Voir "02_filieres_cycle_ingenieur.txt" pour la liste détaillée selon la spécialité choisie
+
+Dossier de candidature:
+1. Fiche de préinscription en ligne (signée) via: http://passerelle.ensaj.ucd.ac.ma/
+2. Copies certifiées des relevés de notes (tous les semestres validés)
+3. Copie certifiée du diplôme ou attestation de réussite
+4. Copie de la carte d'identité nationale (CIN)
+5. Curriculum Vitae détaillé
+6. Deux photos d'identité récentes
+7. Enveloppe timbrée portant l'adresse du candidat
+
+Dépôt du dossier:
+- En ligne via la plateforme: passerelle.ensaj.ucd.ac.ma
+- Documents physiques à envoyer à l'adresse de l'école si demandé
+
+=== ÉPREUVES DU CONCOURS ===
+
+Type d'épreuves:
+- Épreuves écrites en fonction de la filière choisie
+- QCM (Questions à Choix Multiples)
+- Questions ouvertes
+- Exercices techniques
+
+Matières testées (selon filière):
+Pour ISIC:
+- Mathématiques
+- Physique
+- Électronique
+- Informatique
+- Anglais
+
+Pour G2E:
+- Mathématiques
+- Physique
+- Électrotechnique
+- Thermodynamique
+- Anglais
+
+Durée des épreuves: Variable selon les matières (généralement 2h à 3h par épreuve)
+
+=== CRITÈRES DE SÉLECTION ===
+
+Phase 1: Présélection sur dossier
+- Note moyenne des semestres validés
+- Pertinence de la formation d'origine avec la filière demandée
+- Qualité du dossier académique
+
+Phase 2: Concours écrit
+- Performance aux épreuves écrites
+- Note éliminatoire: Généralement < 10/20
+
+Classement final:
+- Combinaison de la note du dossier et des résultats du concours
+- Coefficient variable selon les critères
+- Publication de la liste principale et liste d'attente
+
+=== INSCRIPTION APRÈS ADMISSION ===
+
+Documents requis pour l'inscription définitive:
+1. Original du diplôme (Licence, DUT, DEUG, etc.)
+2. Relevés de notes originaux de tous les semestres
+3. Acte de naissance
+4. Certificat de nationalité marocaine
+5. Photos d'identité (6 à 8 photos)
+6. Certificat médical
+7. Frais d'inscription (voir 07_frais_scolarite_bourses.txt)
+
+Délais stricts:
+- Liste principale: 28-29 juillet 2025
+- Non-respect des délais = perte de la place
+
+Liste d'attente:
+- Convocation le 1er août 2025
+- En fonction des places libérées par la liste principale
+
+=== CONSEILS POUR LES CANDIDATS ===
+
+Préparation:
+- Réviser les matières fondamentales (maths, physique, informatique)
+- Consulter les annales des années précédentes (si disponibles)
+- Vérifier régulièrement le site web de l'ENSAJ pour les mises à jour
+- Préparer le dossier en avance
+
+Points d'attention:
+- Respecter scrupuleusement les dates limites
+- Vérifier que tous les documents sont certifiés conformes
+- S'assurer que la moyenne de 13/20 est bien atteinte
+- Choisir la filière en accord avec sa formation d'origine
+
+Contact pour informations:
+- Site: www.ensaj.ucd.ac.ma
+- Plateforme: passerelle.ensaj.ucd.ac.ma
+- Téléphone: (+212) 5 23 34 48 22
+
+=== AUTRES VOIES D'ADMISSION ===
+
+Admission en 2ème année du cycle ingénieur:
+- Possible dans certains cas exceptionnels
+- Sur étude de dossier et validation d'acquis
+- Se renseigner directement auprès de la direction des études
+
+Étudiants étrangers:
+- Procédure spécifique via l'AMCI (Agence Marocaine de Coopération Internationale)
+- Dossier à déposer selon les conventions entre pays
+- Équivalence des diplômes requise

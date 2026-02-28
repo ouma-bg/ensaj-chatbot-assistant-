@@ -1,0 +1,34 @@
+EMPLOI DU TEMPS - ISIC DEUXIÈME ANNÉE
+Semestre 1 - 2025/2026
+Département TRI - Cycle CI
+
+LUNDI
+08h30 - 10h20 : Transmission Numérique (Pr.Fertat) - S01-S14 [B2]
+10h30 - 12h20 : Transmission Numérique (Pr.Fertat) - S01-S14 [B2]
+13h30 - 15h20 : Ratt: TP Réseaux des entreprises et Cloud computing (Pr.A.AQQAL) - S11-S12 [A6]
+15h30 - 17h20 : Ratt: TP Réseaux des entreprises&Cloud computing (Pr.A.AQQAL) - S11-S12 [A6]
+
+MARDI
+08h30 - 10h20 : Développement Web (Pr. LAZAR) - S01-S14 [B2]
+10h30 - 12h20 : Développement Web (TP Gr1) (Pr. LAZAR) - S01-S14 [B2]
+13h30 - 15h20 : Développement Web (TP Gr2) (Pr. LAZAR) - S01-S14 [A7]
+
+MERCREDI
+08h30 - 10h20 : Deep Learning (Prof. Bousmah) - S01-S14 [B2]
+10h30 - 12h20 : Deep Learning (Prof. Bousmah) - S01-S14 [B2]
+13h30 - 15h20 : Langue Anglaise III (Pr El Ouakyly) - S01-S14 [B2]
+15h30 - 17h20 : Langues : Français III (Pr. Serhir) - S01-S14 [B2]
+
+JEUDI
+08h30 - 10h20 : Réseaux des entreprises et Cloud computing (Pr.A.AQQAL) - S01-S14 [B2]
+10h30 - 12h20 : Réseaux des entreprises et Cloud computing (Pr.A.AQQAL) - S01-S14 [B2]
+13h30 - 15h20 : TP Réseaux des entreprises et Cloud (Pr.A.AQQAL) - S08-S14 [A6]
+15h30 - 17h20 : Loi de la Digitalisation (Pr Chougag) - S01-S14 [Amphi 1]
+
+VENDREDI
+08h30 - 10h20 : Bases de données avancées (Pr. I. Hamzaoui) - S02-S07 [B2]
+10h30 - 12h20 : Bases de données avancées (Pr. I. Hamzaoui) - S02-S07 [B2]
+13h30 - 16h30 : Développement multiplateforme (Pr. El Moutaouakil) - S01-S14 [B2]
+
+08h30 - 10h20 : Bases de données avancées (Pr. Hamzaoui) - S09-S09 [B2]
+10h30 - 12h20 : Bases de données avancées (Pr. Hamzaoui) - S09-S09 [B2]

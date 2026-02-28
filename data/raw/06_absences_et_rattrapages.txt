@@ -1,0 +1,319 @@
+GESTION DES ABSENCES ET RATTRAPAGES - ENSAJ
+
+=== POLITIQUE GÉNÉRALE SUR LES ABSENCES ===
+
+Principe fondamental:
+La présence est OBLIGATOIRE à toutes les activités pédagogiques:
+- Cours magistraux
+- Travaux dirigés (TD)
+- Travaux pratiques (TP)
+- Projets et séances de suivi
+- Examens et contrôles continus
+
+Justification des absences:
+- Toute absence doit être justifiée dans les 48 heures
+- Justificatifs à déposer au service de scolarité
+- Documents originaux exigés (pas de photocopies simples)
+
+=== TYPES D'ABSENCES ===
+
+1. ABSENCES JUSTIFIÉES
+
+Motifs acceptés:
+- Maladie (avec certificat médical)
+- Hospitalisation (avec bulletin d'hospitalisation)
+- Décès d'un proche (parent au 1er ou 2ème degré) avec acte de décès
+- Convocation officielle (judiciaire, administrative, militaire)
+- Cas de force majeure (accident, catastrophe naturelle)
+
+Documents requis:
+Pour maladie:
+- Certificat médical original
+- Datant du jour de l'absence
+- Tampon et signature du médecin obligatoires
+- Numéro INPE du médecin visible
+
+Pour décès:
+- Acte de décès (original ou copie certifiée)
+- Justificatif de lien de parenté si nécessaire
+
+Pour convocation officielle:
+- Convocation originale avec cachet de l'organisme
+- Attestation de présentation si possible
+
+2. ABSENCES NON JUSTIFIÉES
+
+Motifs NON acceptés:
+- "J'ai oublié"
+- "Problèmes de transport" (sauf grève générale ou intempéries majeures)
+- "Je ne savais pas qu'il y avait cours"
+- Certificats médicaux rétroactifs de plus de 48h
+- Certificats médicaux suspects ou falsifiés
+- Raisons personnelles non documentées
+- Événements non officiels
+
+Conséquences:
+- Comptabilisées dans le seuil d'absences autorisées
+- Sanctions progressives appliquées
+
+=== SEUILS ET LIMITES D'ABSENCES ===
+
+Seuils par module:
+
+Absences justifiées:
+- Jusqu'à 15% des séances: Toléré sans conséquence
+- 15-25% des séances: Avertissement
+- > 25% des séances: Risque d'exclusion du module (décision du jury)
+
+Absences non justifiées:
+- 1-2 absences: Avertissement verbal
+- 3 absences: Avertissement écrit + convocation des parents/tuteur
+- 4-5 absences: Risque d'exclusion du module
+- > 5 absences ou > 25% des séances: Exclusion automatique du module
+
+Exemple concret:
+Module avec 24 séances (cours + TD + TP):
+- Seuil de tolérance: 3-4 absences justifiées
+- Seuil d'exclusion: 6 absences (25%)
+- 5 absences non justifiées = exclusion probable
+
+=== CONSÉQUENCES DES ABSENCES EXCESSIVES ===
+
+Exclusion d'un module:
+- Note de 0/20 attribuée au module
+- Impossibilité de passer l'examen final
+- Module à repasser l'année suivante
+- Pas de rattrapage possible
+
+Impact sur la validation:
+- Module exclu = Module non validé
+- Compte dans le calcul du nombre de modules à rattraper
+- Peut entraîner un redoublement si plusieurs modules concernés
+
+Sanctions administratives:
+- Avertissement écrit versé au dossier
+- Convocation devant le conseil de discipline si récidive
+- Exclusion temporaire possible (1 semestre)
+- Exclusion définitive en cas de récidive grave
+
+=== GESTION DES ABSENCES AUX CONTRÔLES CONTINUS ===
+
+Absence à un contrôle continu (CC):
+
+Absence justifiée:
+- Justificatif à fournir dans les 48h
+- Possibilité de rattrapage selon l'enseignant:
+  * Épreuve de rattrapage spécifique
+  * Report de note sur un autre CC
+  * Pondération ajustée des autres CC
+- Décision à la discrétion de l'enseignant
+
+Absence non justifiée:
+- Note de 0/20 attribuée automatiquement
+- Aucun rattrapage possible
+- Impact direct sur la note du contrôle continu (40% de la note finale)
+
+Procédure:
+1. Étudiant absent contacte l'enseignant dans les 48h
+2. Dépôt du justificatif au service de scolarité
+3. L'enseignant décide de la modalité de rattrapage
+4. Convocation de l'étudiant si rattrapage accordé
+
+=== GESTION DES ABSENCES AUX EXAMENS FINAUX ===
+
+Absence à un examen final:
+
+Absence justifiée:
+- Certificat médical ou document officiel OBLIGATOIRE
+- Dépôt dans les 48 heures maximum
+- L'étudiant est convoqué à la session de rattrapage
+- Même conditions que les étudiants ayant échoué
+
+Absence non justifiée:
+- Note de 0/20 à l'examen final (60% de la note)
+- Note finale du module très compromise
+- Module probablement non validé
+- Session de rattrapage en fin d'année
+
+Cas particuliers:
+- Hospitalisation: Possibilité d'examen différé (sur décision du directeur)
+- Accident grave: Session spéciale possible
+- Cas de force majeure: Étudié au cas par cas
+
+=== ABSENCES AUX TRAVAUX PRATIQUES (TP) ===
+
+Règles strictes pour les TP:
+- Présence obligatoire à 100% des séances de TP
+- Les TP ne peuvent généralement PAS être rattrapés
+- Matériel et organisation ne permettent pas de séances supplémentaires
+
+Absence à un TP:
+
+Absence justifiée:
+- Rattrapage possible UNIQUEMENT si:
+  * Groupe de rattrapage organisé par l'école
+  * Place disponible dans un autre groupe
+  * Séance de rattrapage spécifique programmée
+- À négocier avec l'enseignant responsable
+- Pas de garantie de rattrapage
+
+Absence non justifiée:
+- Note de 0/20 pour le TP manqué
+- Impact sur la moyenne des TP (qui compte dans le CC)
+- Risque d'échec au module si plusieurs TP manqués
+
+Validation des TP:
+- Certains modules exigent la validation de TOUS les TP
+- Un seul TP non validé peut entraîner l'échec au module
+- Vérifier les exigences spécifiques de chaque module
+
+=== SESSION DE RATTRAPAGE GÉNÉRALE ===
+
+Organisation:
+- Une session de rattrapage par an (généralement juin-juillet)
+- Concerne les deux semestres de l'année
+- Planning affiché 3 semaines avant le début
+
+Qui passe le rattrapage?
+
+Obligatoire pour:
+- Étudiants ayant échoué à un ou plusieurs modules (note < 10/20 sans compensation)
+- Étudiants absents justifiés aux examens finaux
+- Étudiants exclus de modules pour absences (si autorisé par le jury)
+
+Non autorisé pour:
+- Étudiants ayant validé le module par compensation
+- Étudiants souhaitant améliorer leur note (sauf décision spéciale du jury)
+
+Nombre de modules autorisés au rattrapage:
+- Généralement limité à 3-4 modules maximum
+- Au-delà: Redoublement automatique possible
+- Décision finale du jury pédagogique
+
+=== RATTRAPAGES SPÉCIFIQUES ===
+
+Rattrapage de TP:
+- Très rarement autorisé
+- Uniquement en cas de places disponibles
+- Sur demande écrite motivée
+- Décision du responsable de module
+
+Rattrapage de projets:
+- Possible selon le type de projet
+- Nouvelles dates à négocier avec l'enseignant
+- Pénalité possible sur la note (retard)
+- Respect des nouvelles échéances impératif
+
+Rattrapage de stage:
+- Stage à refaire durant l'été ou l'année suivante
+- Même durée et exigences que le stage initial
+- Peut retarder l'obtention du diplôme
+- Nouveau rapport et nouvelle soutenance
+
+=== PROCÉDURES ADMINISTRATIVES ===
+
+Pour justifier une absence:
+
+Étape 1: Dans les 48 heures
+- Se présenter au service de scolarité
+- Remplir le formulaire de justification d'absence
+- Fournir les documents originaux
+
+Étape 2: Validation
+- Le service vérifie l'authenticité des documents
+- Enregistrement dans le système
+- Information transmise aux enseignants concernés
+
+Étape 3: Suivi
+- L'étudiant vérifie que l'absence est bien justifiée dans son dossier
+- Demander une copie du récépissé si nécessaire
+
+Documents à conserver:
+- Copie de tous les justificatifs fournis
+- Récépissés de dépôt
+- Correspondances avec l'administration
+
+=== CAS PARTICULIERS ===
+
+Maladie longue durée:
+- Certificat médical avec durée précise
+- Possibilité d'aménagement de scolarité
+- Décision du directeur après avis médical
+- Peut entraîner un arrêt temporaire des études
+
+Maternité:
+- Congé maternité autorisé (selon durée légale)
+- Aménagement possible de la scolarité
+- Rattrapage des cours manqués à organiser
+- Possibilité de report de semestre
+
+Sportifs de haut niveau:
+- Statut spécial possible sur demande
+- Aménagement de l'emploi du temps pour compétitions
+- Justificatifs de la fédération sportive requis
+- Rattrapage organisé avec les enseignants
+
+Stages/échanges internationaux:
+- Absences pour échanges académiques validés par l'école: Acceptées
+- Équivalences et transferts de notes appliqués
+- Pas d'impact négatif sur la scolarité
+
+=== CONSEILS ET BONNES PRATIQUES ===
+
+Pour éviter les problèmes:
+1. Toujours vérifier l'emploi du temps régulièrement
+2. En cas de maladie, consulter un médecin le jour même
+3. Prévenir l'école dès que possible (mail, téléphone)
+4. Conserver tous les justificatifs dans un dossier
+5. Ne pas accumuler les absences, même justifiées
+
+En cas d'absence imprévue:
+1. Contacter un camarade de classe pour les informations manquées
+2. Récupérer les cours et documents
+3. Consulter Moodle pour les ressources en ligne
+4. Prendre rendez-vous avec l'enseignant si nécessaire
+
+Gestion proactive:
+- Anticiper les examens médicaux (ne pas les planifier pendant les cours)
+- Organiser les démarches administratives en dehors des heures de cours
+- En cas de difficulté personnelle, contacter le service des affaires estudiantines
+
+=== RECOURS ET CONTESTATIONS ===
+
+Contestation d'une sanction pour absence:
+- Demande écrite au directeur des études
+- Joindre tous les justificatifs
+- Délai: 5 jours ouvrables après notification
+- Réponse sous 15 jours maximum
+
+Commission de recours:
+- Examen du dossier par une commission
+- Audition de l'étudiant possible
+- Décision motivée et définitive
+- Notification écrite à l'étudiant
+
+Situations d'urgence:
+- Contact direct avec le directeur ou son adjoint
+- Exposer la situation exceptionnelle
+- Fournir tous les éléments de preuve
+- Une solution au cas par cas peut être trouvée
+
+=== IMPACT SUR LE CURSUS ===
+
+Absences et redoublement:
+- Absences excessives = Principal facteur de redoublement
+- Un seul redoublement autorisé dans tout le cursus
+- Exclusion définitive après deux échecs consécutifs
+
+Absences et bourses:
+- Les absences répétées peuvent entraîner la suspension de la bourse
+- Les boursiers sont particulièrement surveillés
+- Obligation de résultats pour maintenir la bourse
+
+Absences et réputation:
+- Le sérieux de l'étudiant est évalué
+- Impact sur les lettres de recommandation
+- Les entreprises demandent souvent les relevés d'assiduité pour les stages
+
+Conseil final:
+L'assiduité est l'une des clés de la réussite. Un étudiant présent et impliqué maximise ses chances de validation et d'apprentissage effectif.

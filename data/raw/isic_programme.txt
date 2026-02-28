@@ -1,0 +1,67 @@
+STRUCTURE MODULAIRE FILIÈRE ISIC
+Version 10072025
+
+SEMESTRE 1
+M111 Mathématique pour l'ingénieur - 5 crédits
+M112 Processus Aléatoires - 5 crédits
+M113 Anglais I - 5 crédits
+M114 Français I - 5 crédits
+M115 Langues I - 4 crédits
+M116 Digital Skills  Algorithmique et programmation en Python - 3 crédits
+M117 Théorie de l'Information et Codage - 3 crédits
+
+SEMESTRE 2
+M121 SI et Bases de données - 5 crédits
+M122 Traitement des Signaux et Systèmes - 5 crédits
+M123 Anglais II - 5 crédits
+M124 Français II - 5 crédits
+M125 Langues II - 4 crédits
+M126 Programmation Orientée Objet - 3 crédits
+M127 Techniques de Modulation - 3 crédits
+
+SEMESTRE 3
+M231 Développement Multiplateformes - 5 crédits
+M232 Bases de données avancées - 5 crédits
+M233 Anglais III - 5 crédits
+M234 Français III - 5 crédits
+M235 Transmission Numérique - 4 crédits
+M236 Langues III - 3 crédits
+M237 Lois de la digitalisation (en arabe) - 3 crédits
+Développement Multiplateformes et Bases de données avancées
+Experimentations en Télécom
+Développement Web
+
+SEMESTRE 4
+M241 Intelligence Artificielle - 5 crédits
+M242 Gestion de projets - 5 crédits
+M243 Anglais IV - 5 crédits
+M244 Français IV - 5 crédits
+M245 Langues IV - 4 crédits
+M246 Systèmes embarqués et VHDL - 3 crédits
+M247 Réseaux d'opérateurs et Routage - 3 crédits
+Intelligence Artificielle et Projets
+DeepLearning
+Réseaux des entreprises et Cloud computing
+Administration et sécurité des systèmes
+Management des Entreprises et PFA
+
+SEMESTRE 5
+M351 Sécurité Cloud et SecOps - 5 crédits
+M352 Management de la sécurité SI - 5 crédits
+M353 DevOps - 5 crédits
+M354 ERPCRM - 5 crédits
+M355 Anglais V - 3 crédits
+M356 Français V - 3 crédits
+M357 Méthodologie de recherche de l'emploi - 3 crédits
+Jakarta EE
+Transmission Optique et Liaison par Satellite
+Systèmes Mobiles Avancés 4G5G
+IoT et Systèmes mobiles intelligents
+Réseaux Informatiques
+Communications sans fil et Systèmes mobiles
+Sécurité des réseaux et des données
+Antennes et Hyperfréquences
+DevOps et ERPCRM
+Langues V
+Power skills  Méthodologie de recherche de l'Emploi et Stages
+Stages d'été
